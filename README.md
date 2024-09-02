@@ -9,7 +9,7 @@
 💼 Currently pursuing my B. Tech in  Information Technology
 
 🔍 Passionate about building innovative solutions, my expertise includes:
-
+- 📊 ML/DL/DRL: Python, Neural Nets
 - 📈 Data Analytics: Python, Pandas, NumPy
 - 🌐 Web Security and Performance Optimization
 
