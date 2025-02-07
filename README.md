@@ -11,7 +11,7 @@
 🔍 Passionate about building innovative solutions, my expertise includes:
 - 📊 ML/DL/DRL: Pytorch, Tensorflow, Keras, SciKit-Learn, Neural Nets, OpenAI Gym
 - 📈 Data Analytics: Python, Pandas, NumPy, Seaborn. Matplotlib, OpenCV, JAX
-- 🌐 Focus on: LLM, NLP, Fine-Tuning, Optimization
+- 🌐 Focus on: LLM, NLP, Fine-Tuning, Optimization, CUDA
 
 🌱 Constantly learning and exploring new technologies. Advocate for open-source projects and believe in giving back to the community. Feel free to check out my repositories and contributions.
 
