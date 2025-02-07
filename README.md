@@ -1,6 +1,6 @@
 👋 Hello, I'm Jitesh
 
-🚀 Software Engineer | Open Source Enthusiast
+🚀 ML Researcher | Open Source Enthusiast | Scholar
 
 📧 jiteshuikey28@gmail.com
 📱 https://www.linkedin.com/in/jitesh-uikey/
@@ -9,9 +9,9 @@
 💼 Currently pursuing my B. Tech in  Information Technology
 
 🔍 Passionate about building innovative solutions, my expertise includes:
-- 📊 ML/DL/DRL: Python, Neural Nets
-- 📈 Data Analytics: Python, Pandas, NumPy
-- 🌐 Web Security and Performance Optimization
+- 📊 ML/DL/DRL: Pytorch, Tensorflow, Keras, SciKit-Learn, Neural Nets, OpenAI Gym
+- 📈 Data Analytics: Python, Pandas, NumPy, Seaborn. Matplotlib, OpenCV, JAX
+- 🌐 Focus on: LLM, NLP, Fine-Tuning, Optimization
 
 🌱 Constantly learning and exploring new technologies. Advocate for open-source projects and believe in giving back to the community. Feel free to check out my repositories and contributions.
 
